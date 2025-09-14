@@ -94,7 +94,7 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da9a-637c-4cc3-8f2d-b6308b2e9f5c.png" width="30"> GitHub Analytics
+## 💿 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishnu-nv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -127,7 +127,6 @@ console.log("Welcome to my GitHub profile! 🎉");
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnv2315&repo=Chat-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Chat App"/>
           </a>
           <br><br>
-          <p><b>A real-time chat application with authentication, MongoDB storage, and socket-based messaging.</b></p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
@@ -143,13 +142,11 @@ console.log("Welcome to my GitHub profile! 🎉");
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnv2315&repo=Shopiy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Shopiy"/>
           </a>
           <br><br>
-          <p><b>A modern e-commerce platform built using the MERN stack with TypeScript for scalability.</b></p>
           <p>
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
           </p>
         </div>
       </td>
@@ -165,11 +162,11 @@ console.log("Welcome to my GitHub profile! 🎉");
 <div align="center">
   
 ```text
-🚀 Next.js      8 hrs 30 mins   ████████████             45.2%
-🧠 DSA          4 hrs 15 mins   ██████                   22.6%
-⚛️ React        3 hrs 45 mins   █████                    20.0%
-📜 JavaScript   1 hr 30 mins    ██                       8.0%
-🎨 HTML + CSS   45 mins         █                        4.2%
+Next.js      8 hrs 30 mins   ████████████             45.2%
+DSA          4 hrs 15 mins   ██████                   22.6%
+React        3 hrs 45 mins   █████                    20.0%
+JavaScript   1 hr 30 mins    ██                       8.0%
+HTML + CSS   45 mins         █                        4.2%
 ```
 
 </div>
@@ -228,22 +225,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
----
-
-#### 📌 Contribution Graph (fix snake animation)
-```markdown
-## <img src="https://img.icons8.com/color/48/conference-call.png" width="30"/> Contribution Graph
-
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vnv2315/vnv2315/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
 
 ---
 
