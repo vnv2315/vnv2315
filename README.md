@@ -128,7 +128,6 @@ console.log("Welcome to my GitHub profile! 🎉");
           </a>
           <br><br>
           <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -143,7 +142,7 @@ console.log("Welcome to my GitHub profile! 🎉");
           </a>
           <br><br>
           <p>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -216,7 +215,7 @@ HTML + CSS   45 mins         █                        4.2%
 
 <div align="center">
   
-### <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-9616-c4bafcf87b32.png" width="25"> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 🖋 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 <br>
 
