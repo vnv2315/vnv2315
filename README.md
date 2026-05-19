@@ -91,7 +91,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
 ## <img src="https://img.icons8.com/fluency/48/project.png" width="30"/> Featured Projects
 
 <div align="center">
@@ -100,28 +99,60 @@ console.log("Welcome to my GitHub profile! 🎉");
       <td width="50%">
         <h3 align="center">🔥 Chat Application</h3>
         <div align="center">  
-          <a href="https://github.com/vnv2315/Chat-App" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnv2315&repo=Chat-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Chat App"/>
+          <a href="https://github.com/vnv2315/Chat-Application" target="_blank">
+            <img src="https://images.unsplash.com/photo-1611746872915-64382b5c76da?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Chat Application"/>
           </a>
           <br><br>
           <p>
+            <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+          </p>
+        </div>
+      </td>
+
+      <td width="50%">
+        <h3 align="center">🛒 Shopiy E-commerce</h3>
+        <div align="center">
+          <a href="https://github.com/vnv2315/Shopiy" target="_blank">
+            <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Shopiy"/>
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
           </p>
         </div>
       </td>
+    </tr>
+
+    <tr>
       <td width="50%">
-        <h3 align="center">🛒 Shopiy E-commerce</h3>
+        <h3 align="center">📚 MERN CMS Platform</h3>
         <div align="center">
-          <a href="https://github.com/vnv2315/Shopiy" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnv2315&repo=Shopiy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Shopiy"/>
+          <a href="https://github.com/vnv2315/vnv-content-management" target="_blank">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%" alt="CMS"/>
           </a>
           <br><br>
           <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-            <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge">
+            <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge">
+          </p>
+        </div>
+      </td>
+
+      <td width="50%">
+        <h3 align="center">🔐 Password Vault</h3>
+        <div align="center">
+          <a href="https://github.com/vnv2315/Password-Vault" target="_blank">
+            <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Password Vault"/>
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
+            <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
           </p>
         </div>
