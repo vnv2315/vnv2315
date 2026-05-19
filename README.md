@@ -24,17 +24,16 @@ const vishnu = {
     name: "Vishnu N V",
     location: "Pune, India 🇮🇳",
     role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "TypeScript", "C++"],
+    code: ["JavaScript", "TypeScript", "C++"],
     technologies: {
-        frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud: ["AWS", "Docker", "Kubernetes"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Socket.IO"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Postman", "Cloudinary", "Vercel"]
     },
-    currentFocus: "Building scalable applications with modern tech",
-    challenge: "Learning something new every day! 💪",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    currentFocus: "Backend systems, DSA, and scalable web applications",
+    challenge: "Building projects while improving problem solving skills 💪",
+    funFact: "I still debug with console.log() 😄"
 };
 
 console.log("Welcome to my GitHub profile! 🎉");
@@ -79,17 +78,15 @@ console.log("Welcome to my GitHub profile! 🎉");
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### ☁️ Cloud & DevOps
+### 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
 </p>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -141,11 +138,8 @@ console.log("Welcome to my GitHub profile! 🎉");
 <div align="center">
   
 ```text
-Next.js      8 hrs 30 mins   ████████████             45.2%
-DSA          4 hrs 15 mins   ██████                   22.6%
-React        3 hrs 45 mins   █████                    20.0%
-JavaScript   1 hr 30 mins    ██                       8.0%
-HTML + CSS   45 mins         █                        4.2%
+DSA          4 hrs 45 mins   ██████                   80.6%
+JavaScript   2 hrs 15 mins   █████                    19.4%
 ```
 
 </div>
@@ -158,12 +152,12 @@ HTML + CSS   45 mins         █                        4.2%
   <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
 </div>
 
-- 🔭 **Working on:** Full Stack Web Applications
-- 🌱 **Learning:** Cloud Architecture & DevOps
-- 👥 **Open to:** Collaborate on Open Source Projects  
-- 💬 **Ask me about:** JavaScript, React, Python, Web Development
-- 🎯 **Goal:** Contributing to impactful projects
-- ⚡ **Fun fact:** I love solving algorithmic challenges and building cool stuff!
+- 🔭 Working on: Backend-focused applications
+- 🌱 Learning: Data Structures & Algorithms, System Design Basics
+- 👥 Open to: Open Source and Full Stack collaborations
+- 💬 Ask me about: JavaScript, React, Node.js, Express.js
+- 🎯 Goal: Becoming a strong software engineer
+- ⚡ Fun fact: I enjoy building realtime applications with Socket.IO
 
 <br clear="right">
 
@@ -181,15 +175,13 @@ HTML + CSS   45 mins         █                        4.2%
   <a href="mailto:vishnunv2315@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
+  <a href="https://leetcode.com/u/vnv2315/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/sponsors/vnv2315" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA" alt="Sponsor"/>
-  </a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
