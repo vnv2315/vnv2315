@@ -90,6 +90,36 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%">
+<h3>🔧 Backend Developer Intern</h3>
+<p><strong>Admeasy</strong> &nbsp;·&nbsp; Oct 2025 – Dec 2025</p>
+<p>Built and shipped production backend features — REST APIs, JWT auth, real-time communication via Socket.IO, and MongoDB data layers using Node.js & Express.js.</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+
+</p>
+</td>
+<td width="50%">
+<h3>🎨 Frontend Developer Intern</h3>
+<p><strong>Easy Hisaab</strong> &nbsp;·&nbsp; Jan 2026 – Feb 2026</p>
+<p>Developed responsive financial dashboards in React.js, integrated live backend APIs for real-time data, and built reusable UI components with clean state management.</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge">
+</p>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 ## <img src="https://img.icons8.com/fluency/48/project.png" width="30"/> Featured Projects
 
 <div align="center">
@@ -154,18 +184,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 Coding Activity
-
-<div align="center">
-  
-```text
-DSA          4 hrs 45 mins   ██████                   80.6%
-JavaScript   2 hrs 15 mins   █████                    19.4%
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
